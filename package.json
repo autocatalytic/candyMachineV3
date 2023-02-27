@@ -1,0 +1,10 @@
+{
+  "name": "cm-v3-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@metaplex-foundation/js": "0.18.1",
+    "@solana/web3.js": "1.73.3"
+  }
+}
